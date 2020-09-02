@@ -1,0 +1,5 @@
+body{background-image: url(.//Imagens/fundo.jpg) ;font-family: Georgia, 'Times New Roman', Times, serif;}
+form{background-color:rgba(255, 255, 255, 0.7) ;}
+input{background-color: rgba(73, 73, 73, 0.5); font-family: Georgia, 'Times New Roman', Times, serif;}
+select{background-color:rgba(73, 73, 73, 0.5) ;font-family: Georgia, 'Times New Roman', Times, serif;}
+textarea{background-color: rgba(73, 73, 73, 0.5);font-family: Georgia, 'Times New Roman', Times, serif;}
